@@ -1,0 +1,1 @@
+enum ReducerAction { Increment, Decrement }
